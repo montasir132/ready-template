@@ -1,0 +1,47 @@
+ /* font  */
+@import url('../Roboto/Roboto-Black.ttf');@import url('../Roboto/Roboto-BlackItalic.ttf');@import url('../Roboto/Roboto-Italic.ttf');@import url('../Roboto/Roboto-Light.ttf');@import url('../Roboto/Roboto-LightItalic.ttf');@import url('../Roboto/Roboto-Medium.ttf');@import url('../Roboto/Roboto-Regular.ttf');@import url('../Roboto/Roboto-Thin.ttf');@import url('../Roboto/Roboto-ThinItalic.ttf'); 
+
+
+/* common css start*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Fira Code", monospace;
+    background-color: #fff;
+}
+
+:root{
+    --black      : #1E1E1E;
+    --whith      : #FFFFFF;
+    --background : #282C33;
+    --gray       : #ABB2BF;
+    --primary    : #C778DD;
+    --fira: "Fira Code", monospace;
+}
+/* body{
+    font-family: ;
+    font-size: ;
+    font-weight: ;
+    background-color: ;
+    color: ;
+    line-height: ;
+} */
+
+p{}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}    
+/* common css end*/
+/* header start  */
+/* header end */
+/* fotter start*/
+footer{
+    padding: 10px 0px;
+    border-top: 2px solid black;
+}
+/* fotter end*/
